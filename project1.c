@@ -550,7 +550,7 @@ int main()
         printf("_");
         Sleep(30);
     }
-    char title[] = "SHORTEST DISTANCE CALCULATOR.................by AYUSH BALODHI";
+    char title[] = "SHORTEST DISTANCE CALCULATOR.................by Abhay Chauhan";
     printf("\n\n");
     for (int i = 0; i < sizeof title; ++i)
     {
